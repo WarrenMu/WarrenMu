@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WarrenMu
 - 👀 I’m interested in cracking code and exploration of weird machines
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me @ZanxusD on Twitter
+- 🌱 I’m currently developing 
+- 💞️ I’m looking forward to collaborating with devs
+- 📫 How to reach me @WarrenMu_ on Twitter
 
 
 <!--
