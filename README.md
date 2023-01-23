@@ -2,7 +2,7 @@
 - 👀 I’m interested in cracking code and exploration of weird machines
 - 🌱 I’m currently developing 
 - 💞️ I’m looking forward to collaborating with devs
-- 📫 How to reach me @WarrenMu_ on Twitter
+- 📫 How to reach me omnikkotow@gmail.com
 
 
 <!--
